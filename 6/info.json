@@ -1,0 +1,19 @@
+{
+  "Id": "6",
+  "Artist": "Linkin Park",
+  "Lyrics": "",
+  "Title": "In The End",
+  "Album": "",
+  "Description": "",
+  "Image": "image.jpg",
+  "Tags": [
+    "active",
+    "drive",
+    "heavy",
+    "metal",
+    "popular",
+    "rock"
+  ],
+  "Duration": 218,
+  "AddedAt": "1792852234"
+}

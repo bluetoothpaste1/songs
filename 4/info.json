@@ -1,0 +1,18 @@
+{
+  "Id": "4",
+  "Artist": "The Rolling Stones",
+  "Lyrics": "",
+  "Title": "Brown Sugar",
+  "Album": "",
+  "Description": "",
+  "Image": "image.jpg",
+  "Tags": [
+    "active",
+    "dance",
+    "popular",
+    "rock",
+    "y2k"
+  ],
+  "Duration": 225,
+  "AddedAt": "1792846775"
+}

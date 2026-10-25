@@ -1,0 +1,19 @@
+{
+  "Id": "5",
+  "Artist": "Linkin Park",
+  "Lyrics": "",
+  "Title": "Faint",
+  "Album": "",
+  "Description": "",
+  "Image": "image.jpg",
+  "Tags": [
+    "active",
+    "drive",
+    "heavy",
+    "metal",
+    "popular",
+    "rock"
+  ],
+  "Duration": 162,
+  "AddedAt": "1792851981"
+}
